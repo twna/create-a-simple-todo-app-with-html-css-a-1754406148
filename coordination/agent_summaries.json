@@ -1,0 +1,5 @@
+{
+  "frontend-developer": {
+    "error": "Orchestrator.generate_agent_context() takes 3 positional arguments but 4 were given"
+  }
+}
